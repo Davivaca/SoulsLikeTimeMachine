@@ -2,7 +2,7 @@
 
 ## About the game
 
-## Progamming issues
+## Programming issues
 
 ### Magic formula
 
