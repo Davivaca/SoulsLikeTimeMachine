@@ -45,6 +45,14 @@ y += yspd;
 
 keyboard_check is a very important function where you use it to make the computer keys do something.
 
+### Second class
+
+https://youtu.be/2QtxSfxA7s4
+
+Make four sprites for player.
+
+Use macros in a script to create the macros you will use to change the player directions.
+
 ## Programming issues
 
 ### Magic formula
