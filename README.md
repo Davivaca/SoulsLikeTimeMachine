@@ -63,6 +63,10 @@ Now add a tileset layer and voila.
 
 Enter the camera settings and set it to follow the player object.
 
+### Third class 🧒
+
+Making an object a child of another will also be affected by scripts.
+
 ## Programming issues
 
 ### Magic formula
