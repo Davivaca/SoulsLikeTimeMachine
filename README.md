@@ -4,7 +4,7 @@
 
 ## My process of making this game
 
-### First class I attended
+### First class I attended ⏩
 
 https://youtu.be/KnfQo32ME5g
 
@@ -45,13 +45,23 @@ y += yspd;
 
 keyboard_check is a very important function where you use it to make the computer keys do something.
 
-### Second class
+### Second class 🚶
 
 https://youtu.be/2QtxSfxA7s4
 
 Make four sprites for player.
 
 Use macros in a script to create the macros you will use to change the player directions.
+
+### Third class ✏️
+
+Now to make a simple room just make a sprite, preferably with the same measurements as your character.
+
+Create a tileset and choose the sprite you drew.
+
+Now add a tileset layer and voila.
+
+Enter the camera settings and set it to follow the player object.
 
 ## Programming issues
 
