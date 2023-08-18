@@ -67,6 +67,11 @@ Enter the camera settings and set it to follow the player object.
 
 Making an object a child of another will also be affected by scripts.
 
+### Fifth class 🚻
+
+Going to one room to another
+### I stop at 9:00
+
 ## Programming issues
 
 ### Magic formula
