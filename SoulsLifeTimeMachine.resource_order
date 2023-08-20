@@ -24,6 +24,8 @@
     {"name":"ts_house_tiles_two","order":1,"path":"tilesets/ts_house_tiles_two/ts_house_tiles_two.yy",},
     {"name":"spr_tv","order":8,"path":"sprites/spr_tv/spr_tv.yy",},
     {"name":"spr_player_left","order":4,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"spr_warp_transition","order":10,"path":"sprites/spr_warp_transition/spr_warp_transition.yy",},
+    {"name":"obj_warp","order":5,"path":"objects/obj_warp/obj_warp.yy",},
     {"name":"spr_bed","order":7,"path":"sprites/spr_bed/spr_bed.yy",},
     {"name":"spr_warp_block","order":9,"path":"sprites/spr_warp_block/spr_warp_block.yy",},
     {"name":"obj_dresser","order":3,"path":"objects/obj_dresser/obj_dresser.yy",},
