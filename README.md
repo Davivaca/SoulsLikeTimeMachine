@@ -70,7 +70,7 @@ Making an object a child of another will also be affected by scripts.
 ### Fifth class 🚻
 
 Going to one room to another
-### I stop at 9:00
+### I stop at 21:48
 
 ## Programming issues
 
