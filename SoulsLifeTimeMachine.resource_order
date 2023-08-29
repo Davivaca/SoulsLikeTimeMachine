@@ -33,6 +33,7 @@
     {"name":"rm_bed_room","order":1,"path":"rooms/rm_bed_room/rm_bed_room.yy",},
     {"name":"spr_house_tiles_two","order":6,"path":"sprites/spr_house_tiles_two/spr_house_tiles_two.yy",},
     {"name":"spr_player_up","order":3,"path":"sprites/spr_player_up/spr_player_up.yy",},
+    {"name":"obj_pauser","order":6,"path":"objects/obj_pauser/obj_pauser.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
   ],
 }
