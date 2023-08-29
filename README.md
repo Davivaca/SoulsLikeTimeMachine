@@ -70,7 +70,8 @@ Making an object a child of another will also be affected by scripts.
 ### Fifth class 🚻
 
 Going to one room to another
-### I stop at 21:48
+
+nice work noe the warp object point the player to the wanted direction, just remember to edit the direction if necessary
 
 ## Programming issues
 
