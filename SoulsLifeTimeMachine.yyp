@@ -48,6 +48,7 @@
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"spr_bed","path":"sprites/spr_bed/spr_bed.yy",},},
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
+    {"id":{"name":"rm_living_room_paths","path":"rooms/rm_living_room_paths/rm_living_room_paths.yy",},},
     {"id":{"name":"spr_warp_block","path":"sprites/spr_warp_block/spr_warp_block.yy",},},
     {"id":{"name":"obj_dresser","path":"objects/obj_dresser/obj_dresser.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
@@ -61,6 +62,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_bed_room","path":"rooms/rm_bed_room/rm_bed_room.yy",},},
     {"roomId":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},
+    {"roomId":{"name":"rm_living_room_paths","path":"rooms/rm_living_room_paths/rm_living_room_paths.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

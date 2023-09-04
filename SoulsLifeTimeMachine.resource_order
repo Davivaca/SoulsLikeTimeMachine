@@ -27,6 +27,7 @@
     {"name":"spr_warp_transition","order":10,"path":"sprites/spr_warp_transition/spr_warp_transition.yy",},
     {"name":"obj_warp","order":5,"path":"objects/obj_warp/obj_warp.yy",},
     {"name":"spr_bed","order":7,"path":"sprites/spr_bed/spr_bed.yy",},
+    {"name":"rm_living_room_paths","order":2,"path":"rooms/rm_living_room_paths/rm_living_room_paths.yy",},
     {"name":"spr_warp_block","order":9,"path":"sprites/spr_warp_block/spr_warp_block.yy",},
     {"name":"obj_dresser","order":3,"path":"objects/obj_dresser/obj_dresser.yy",},
     {"name":"spr_player_right","order":2,"path":"sprites/spr_player_right/spr_player_right.yy",},
