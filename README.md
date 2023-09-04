@@ -73,6 +73,14 @@ Going to one room to another
 
 nice work noe the warp object point the player to the wanted direction, just remember to edit the direction if necessary
 
+### 6 class
+
+Parallax backgrounds
+
+Create a group to storage same things together!
+
+Thats it!
+
 ## Programming issues
 
 ### Magic formula
