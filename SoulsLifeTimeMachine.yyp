@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"obj_bed","path":"objects/obj_bed/obj_bed.yy",},},
+    {"id":{"name":"obj_parallax_background","path":"objects/obj_parallax_background/obj_parallax_background.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -50,6 +51,7 @@
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
     {"id":{"name":"rm_living_room_paths","path":"rooms/rm_living_room_paths/rm_living_room_paths.yy",},},
     {"id":{"name":"spr_warp_block","path":"sprites/spr_warp_block/spr_warp_block.yy",},},
+    {"id":{"name":"spr_bg_forest","path":"sprites/spr_bg_forest/spr_bg_forest.yy",},},
     {"id":{"name":"obj_dresser","path":"objects/obj_dresser/obj_dresser.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
     {"id":{"name":"rm_bed_room","path":"rooms/rm_bed_room/rm_bed_room.yy",},},
